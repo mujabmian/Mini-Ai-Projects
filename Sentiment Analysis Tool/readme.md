@@ -49,7 +49,8 @@ Accuracy: 1.0
 weighted avg       1.00      1.00      1.00         2
 
 Saved pipeline to sentiment_pipeline.joblib
-Example prediction: ['pos'] 
+Example prediction: ['pos']
+---
 ## ⚙️ Installation
 bash
 Copy code
