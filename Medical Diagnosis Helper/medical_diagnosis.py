@@ -1,5 +1,4 @@
 # medical_diagnosis.py
-# Toy medical diagnosis classifier using synthetic data.
 # Requirements: scikit-learn, pandas, numpy, joblib
 import numpy as np
 import pandas as pd
